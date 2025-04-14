@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### 👋 Hey, I'm Tharunya<br><br>🎓 Master's Student in Computer Information Systems @ Colorado State University  <br>📍 Fort Collins, CO  <br>💼 Actively looking for internships and full-time roles in tech (especially in security, cloud, or product-oriented roles).  <br>
 
 <div align="center">
