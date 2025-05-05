@@ -30,7 +30,7 @@
 ### 💡 About Me
 
 - 🎓 Master’s Student in Computer Information Systems @ Colorado State University  
-- 📍 Based in Fort Collins, CO  
+- 📍 Fort Collins, CO  
 - 💼 Actively seeking **internships** and **full-time roles** in tech  
 - 🔐 Passionate about security, DevSecOps, and cloud 
 - 💬 Always open to collaborations on security tools, automation & OSS  
